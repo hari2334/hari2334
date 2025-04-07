@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Hi my name is Hari, I am an USYD graduate in Data analytics i am intrested in Data analytics, Python and Tableau !!
+
+- 👀 I’m interested in Business Analytics
+- 🔭 I’m currently working on f1 analytics project 
+- 🌱 I’m currently learning Power BI
+- 👯 I’m looking to collaborate on sports realated analytics projects
+  
+
 <!--
 **hari2334/hari2334** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
