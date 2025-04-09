@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-Hi my name is Hari, I am an USYD graduate in Data analytics i am intrested in Data analytics, Python and Tableau !!
+Hi, my name is Pranav Hari. I completed my Master's Degree in Business Data Analytics from the University of Sydney in 2024. I am interested in Data analytics, Python, and Tableau.
 
-- 👀 I’m interested in Business Analytics
-- 🔭 I’m currently working on f1 analytics project 
-- 🌱 I’m currently learning Power BI
-- 👯 I’m looking to collaborate on sports realated analytics projects
+- 👀 I’m interested in Business Analytics.
+- 👀 I'm skilled in using Python, SQL and Tableau.
+- 🔭 I’m currently working on a Data Analytics project on Formula 1 Race Week Analysis.
+- 🌱 I’m currently learning Power BI.
   
 
 <!--
